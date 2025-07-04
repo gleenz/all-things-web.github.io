@@ -4,16 +4,16 @@ body {
 }
 
 header {
-  background-color: #466995;
+  background-color: black;
   text-align: center;
   border-bottom: 1px solid #466995;
 }
 h1 {
-  color: #466995;
-  font-family: 'Oswald', sans-serif;
+  color: black;
+  font-family: 'Varela Round', sans-serif;
   font-size: 32px;
   font-weight: 300;
-  text-transform: uppercase;
+ 
 }
 
 h2 {
